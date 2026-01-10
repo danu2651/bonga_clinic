@@ -1,0 +1,4 @@
+database.sql
+.env
+/vendor/
+node_modules/
